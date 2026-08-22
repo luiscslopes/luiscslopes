@@ -1,6 +1,14 @@
-👋 Olá, eu sou Luis!
+### 👋 Olá, eu sou o Luis!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-🔐 Interessado em Cybersecurity
-🐍 Atualmente estudando Python
-💻 Desenvolvendo projetos para aprender na prática
+### 🎓 Sobre mim
+
+* 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
+* 🔒 **Interessado em Cibersegurança**
+* 🧠 **Focado em Fundamentos de Programação**
+* 🛡️ **Cybersecurity**
+
+### 💻 O que estou fazendo no momento
+
+* 🐍 **Atualmente estudando Python**
+* 🖥️ **Desenvolvendo projetos práticos para aprender na prática**
+* 🗃️ **Git e GitHub**
