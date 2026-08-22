@@ -5,7 +5,6 @@
 * 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
 * 🔒 **Interessado em Cibersegurança**
 * 🧠 **Focado em Fundamentos de Programação**
-* 🛡️ **Cybersecurity**
 
 ### 💻 O que estou fazendo no momento
 
