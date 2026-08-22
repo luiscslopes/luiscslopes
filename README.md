@@ -36,3 +36,10 @@ Sistema de controle financeiro desenvolvido em Python, criado para praticar prog
 * 📄 **JSON**
 * 🗃️ **Git**
 * 🐙 **GitHub**
+
+### 📫 Contato
+
+💼 **LinkedIn:** [Luis Carlos](https://www.linkedin.com/in/luis-carlos-406064430/)
+
+🐙 **GitHub:** [@luiscslopes](https://github.com/luiscslopes)
+
