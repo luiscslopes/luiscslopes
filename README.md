@@ -28,3 +28,11 @@ Sistema de controle financeiro desenvolvido em Python, criado para praticar prog
 * ⚠️ **Validações de dados**: Tratamento de entradas inválidas.
 * 🛠️ **Organização e refatoração**: Código estruturado e continuamente aprimorado.
 * 🗃️ **Versionamento com Git e GitHub**: Histórico e acompanhamento da evolução do projeto.
+
+### 🛠️ Tecnologias e ferramentas:
+
+* 🐍 **Python**
+* 🖥️ **Tkinter**
+* 📄 **JSON**
+* 🗃️ **Git**
+* 🐙 **GitHub**
