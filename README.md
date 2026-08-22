@@ -10,7 +10,7 @@
 
 * 🐍 **Atualmente estudando Python**
 * 🖥️ **Desenvolvendo projetos para aplicar e aprimorar meus conhecimentos**
-* 🗃️ **Git e GitHub**
+* 🗃️ **Aprendendo Git e GitHub**
 
 ### 🚀 PROJETO EM DESTAQUE
 
