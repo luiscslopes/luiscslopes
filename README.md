@@ -14,7 +14,7 @@
 
 ### 🚀 PROJETO EM DESTAQUE
 
-### 💰 Projeto 12X8
+### 💰 [Projeto 12X8](https://github.com/luiscslopes/projeto-12x8)
 
 Sistema de controle financeiro desenvolvido em Python, criado para praticar programação e transformar os conhecimentos adquiridos em um projeto completo. 
 
